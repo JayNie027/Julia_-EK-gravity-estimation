@@ -4,3 +4,5 @@ I'm teaching myself Julia, as well as calibrate the trade cost based on Eaton-Ko
 
 First, download the data from CEPII: http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=8. The data contain the trade flow and geographical variables we usually used for quantitative trade model.
 
+Second, download the attached ctypairAna.csv. it contains 40 countries so 40 * 40 country pair
+
